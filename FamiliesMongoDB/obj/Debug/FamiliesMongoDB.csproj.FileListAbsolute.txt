@@ -1,0 +1,255 @@
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.AssemblyReference.cache
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.SuggestedBindingRedirects.cache
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FrmAMFamilies.resources
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FrmFamilies.resources
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FrmMain.resources
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.Properties.Resources.resources
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.GenerateResource.cache
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.CoreCompileInputs.cache
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\mongocrypt.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\FamiliesMongoDB.exe.config
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\FamiliesMongoDB.exe
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\FamiliesMongoDB.pdb
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\DnsClient.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Win32.Registry.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Bson.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.Core.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\SharpCompress.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Snappier.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Buffers.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Memory.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Numerics.Vectors.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.AccessControl.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.Principal.Windows.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\ZstdSharp.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\DnsClient.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Win32.Registry.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Bson.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.Core.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Snappier.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Buffers.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Memory.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Numerics.Vectors.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.AccessControl.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.Principal.Windows.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.CopyComplete
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.exe
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\WORK\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.pdb
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\mongocrypt.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\FamiliesMongoDB.exe.config
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\FamiliesMongoDB.exe
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\FamiliesMongoDB.pdb
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\DnsClient.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Win32.Registry.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Bson.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.Core.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\SharpCompress.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Snappier.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Buffers.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Memory.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Numerics.Vectors.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.AccessControl.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.Principal.Windows.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\ZstdSharp.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\DnsClient.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Win32.Registry.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Bson.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.Core.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Snappier.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Buffers.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Memory.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Numerics.Vectors.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.AccessControl.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.Principal.Windows.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.AssemblyReference.cache
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.SuggestedBindingRedirects.cache
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FrmAMFamilies.resources
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FrmFamilies.resources
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FrmMain.resources
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.Properties.Resources.resources
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.GenerateResource.cache
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.CoreCompileInputs.cache
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.CopyComplete
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.exe
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.pdb
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\mongocrypt.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\FamiliesMongoDB.exe.config
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\FamiliesMongoDB.exe
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\FamiliesMongoDB.pdb
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\DnsClient.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Win32.Registry.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Bson.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.Core.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\SharpCompress.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Snappier.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Buffers.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Memory.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Numerics.Vectors.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.AccessControl.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.Principal.Windows.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\ZstdSharp.dll
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\DnsClient.xml
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Win32.Registry.xml
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Bson.xml
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.xml
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.Core.xml
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Snappier.xml
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Buffers.xml
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Memory.xml
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Numerics.Vectors.xml
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.AccessControl.xml
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.Principal.Windows.xml
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.AssemblyReference.cache
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.SuggestedBindingRedirects.cache
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FrmAMFamilies.resources
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FrmFamilies.resources
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FrmMain.resources
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.Properties.Resources.resources
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.GenerateResource.cache
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.CoreCompileInputs.cache
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.CopyComplete
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.exe
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.pdb
+E:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FrmBD.resources
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\mongocrypt.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\FamiliesMongoDB.exe.config
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\FamiliesMongoDB.exe
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\FamiliesMongoDB.pdb
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\DnsClient.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Win32.Registry.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Bson.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.Core.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\SharpCompress.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Snappier.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Buffers.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Memory.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Numerics.Vectors.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.AccessControl.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.Principal.Windows.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\ZstdSharp.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\DnsClient.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Win32.Registry.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Bson.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.Core.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Snappier.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Buffers.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Memory.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Numerics.Vectors.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.AccessControl.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.Principal.Windows.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.AssemblyReference.cache
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.SuggestedBindingRedirects.cache
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FrmAMFamilies.resources
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FrmBD.resources
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FrmFamilies.resources
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FrmMain.resources
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.Properties.Resources.resources
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.GenerateResource.cache
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.CoreCompileInputs.cache
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.CopyComplete
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.exe
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\PRÀCTIQUES_A_REALITZAR\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.pdb
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\mongocrypt.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\FamiliesMongoDB.exe.config
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\FamiliesMongoDB.exe
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\FamiliesMongoDB.pdb
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\DnsClient.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Win32.Registry.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Bson.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.Core.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\SharpCompress.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Snappier.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Buffers.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Memory.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Numerics.Vectors.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.AccessControl.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.Principal.Windows.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\ZstdSharp.dll
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\DnsClient.xml
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Microsoft.Win32.Registry.xml
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Bson.xml
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.xml
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\MongoDB.Driver.Core.xml
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\Snappier.xml
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Buffers.xml
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Memory.xml
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Numerics.Vectors.xml
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.AccessControl.xml
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Security.Principal.Windows.xml
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.AssemblyReference.cache
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.SuggestedBindingRedirects.cache
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FrmAMFamilies.resources
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FrmBD.resources
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FrmFamilies.resources
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FrmMain.resources
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.Properties.Resources.resources
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.GenerateResource.cache
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.CoreCompileInputs.cache
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.csproj.CopyComplete
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.exe
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.pdb
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FORMS.FrmAMCicles.resources
+C:\DAM2\M3UF6\Exercicis\Pràctica5-FamiliesMongoDB\FamiliesMongoDB\FamiliesMongoDB\obj\Debug\FamiliesMongoDB.FORMS.FrmCicles.resources

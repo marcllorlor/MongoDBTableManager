@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CLASSES.ClBDMongoDB">
+    <Position X="8.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQACEAgAAAAQYAACAAABAAAAAAABAAgAgAAgAARA=</HashCode>
+      <FileName>CLASSES\ClBDMongoDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLASSES.ClFamilies">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAABAAACAACAAAEABAAACAABECAAAAAIAAQIAIA=</HashCode>
+      <FileName>CLASSES\ClFamilies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLASSES.ClFamiliesMongoDB">
+    <Position X="1.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAAAAAAAAAAACAAAEABAAACAABECAAAIAAAAQQAAA=</HashCode>
+      <FileName>CLASSES\ClFamiliesMongoDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FamiliesMongoDB.ClProva">
+    <Position X="12" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAIAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClProva.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
